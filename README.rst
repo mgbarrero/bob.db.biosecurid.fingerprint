@@ -1,6 +1,6 @@
-=========================
- BiosecurID hand Database
-=========================
+=================================
+ BiosecurID fingerprint Database
+=================================
 
 This package contains the access API and descriptions for the `BiosecurID fingerprint
 Database `_.
